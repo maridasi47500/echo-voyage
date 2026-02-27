@@ -1,0 +1,32 @@
+<%= form_with(model: musicalstreet) do |form| %>
+  <% if musicalstreet.errors.any? %>
+    <div style="color: red">
+      <h2><%= pluralize(musicalstreet.errors.count, "error") %> prohibited this musicalstreet from being saved:</h2>
+
+      <ul>
+        <% musicalstreet.errors.each do |error| %>
+          <li><%= error.full_message %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div>
+    <%= form.label :lieu, style: "display: block" %>
+    <%= form.text_field :lieu %>
+  </div>
+
+  <div>
+    <%= form.label :lat, style: "display: block" %>
+    <%= form.text_field :lat %>
+  </div>
+
+  <div>
+    <%= form.label :lon, style: "display: block" %>
+    <%= form.text_field :lon %>
+  </div>
+
+  <div>
+    <%= form.submit %>
+  </div>
+<% end %>

@@ -1,0 +1,2 @@
+class Musicalstreet < ApplicationRecord
+end

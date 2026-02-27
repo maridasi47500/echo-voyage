@@ -1,0 +1,16 @@
+<p style="color: green"><%= notice %></p>
+
+<% content_for :title, "Musicalstreets" %>
+
+<h1>Musicalstreets</h1>
+
+<div id="musicalstreets">
+  <% @musicalstreets.each do |musicalstreet| %>
+    <%= render musicalstreet %>
+    <p>
+      <%= link_to "Show this musicalstreet", musicalstreet %>
+    </p>
+  <% end %>
+</div>
+
+<%= link_to "New musicalstreet", new_musicalstreet_path %>
