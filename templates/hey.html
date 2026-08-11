@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block montitre %}
+debut de mes mots: bienvenue dans echo de tes voyages
+{% endblock %}
+{% block content %}
+<h1># echo-voyage</h1>
+{% for x in users | reverse %}
+ <li>{{ x["first_name"]  }}</li>
+
+{% endfor %} 
+fin de mes mots : visite le magasin de souvenir de ta ville, ecoute la musique associées aux rues,
+{% endblock %}
+{% block liens %}
+<a href="/">welcome</a>
+{% endblock %}
+<a href="/add_one_country"> add one country</a><a href="/add_one_user"> add one user</a><a href="/add_one_city"> add one city</a><a href="/add_one_carnetdevoyage"> add one carnetdevoyage</a><a href="/add_one_destination"> add one destination</a><a href="/add_one_son"> add one son</a><a href="/add_one_photo"> add one photo</a><a href="/add_one_street"> add one street</a><a href="/add_one_track"> add one track</a><a href="/add_one_magasin"> add one magasin</a><a href="/add_one_article"> add one article</a><a href="/add_one_ruby_gps"> add one ruby_gps</a><a href="/add_one_creation"> add one creation</a><a href="/add_one_limite_map"> add one limite_map</a>
