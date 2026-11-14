@@ -1,5 +1,7 @@
 🌐 EchoVoyageStreet x TravelBuddy — Ton monde, résonnant de souvenirs
-
+- usual actions
+- publier des photos d'un vyage
+- unusual actions : 
 EchoVoyage x TravelBuddy est une plateforme immersive qui transforme chaque ville en expérience vivante, chaque voyage en quête sensorielle, et chaque retour chez soi en redécouverte intime. C’est une invitation à explorer le monde à travers les sons, les paysages, les émotions et les récits — et à faire de ta propre ville un miroir vibrant de tes aventures passées.
 🧠 Vision du projet
 
