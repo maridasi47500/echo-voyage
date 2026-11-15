@@ -155,4 +155,67 @@ Quand tu reviens dans ta ville, tu débloques ton Ruby, une sorte de talisman nu
 
     Le Ruby est comme une mémoire vivante de ta ville. Il évolue avec toi.
 
-🔁 Cycle du voyage
+# follow-river
+
+| il y a  | oui non/quoi |
+| --- | --- |
+| boule de crystal  | oui  |
+| art of coding  | non  |
+| fake social network | oui |
+| timestamped items | non |
+| speech to text | non | 
+| text to speech | non |
+| traducteur | non |
+| langue etrangere | non |
+| un script à lancer | non |
+| showcase website d'un metier | non |
+| application d'une entreprise | non |
+| langage musical/lilypond / partitions | non |
+| le temps reel est important | non |
+| gps | oui |
+| images creees | non |
+| libraries python/gem rails speciales | non |
+| sessions de entrainement | non |
+| requetes sql | non |
+| css drawn iphone | oui/optional |
+
+- what common : il y a un (faux) reseausocial avec des relations
+- 
+- what's uusual : il y a des posts facebook apparaissrnt avec un milieu naturel, un son d'un milieu naturel et optionnel, une musique
+- à ces posts créé automatiquement il y a une boule de crystal qui est liée, avec un futur inscrit dedans
+
+cette application
+- 
+
+- tu te promenes dans les rues de ta ville, ou soit tu regardes le lever/coucher de soleil dans ta ville , - tu as pris les vols court/long courrier pour aller voir ailleurs, sur ton portable , il y a seulement une photo dun souvenir de ton voyage ( des rivieres) ou un son de rivieres pu de la musique (tu choisis) (qui vient de loin) , cest une image de riviere ou un son/une musique un peu mysterieuse. qui revele pas completement tout de toi.
+
+This is a vibe. You’re blending the haunting introspection of Unravel (Tokyo Ghoul style) with the relentless, rhythmic flow of Lykke Li’s I Follow Rivers.
+
+- Summary that hits that "melodic nomad" energy:
+
+🥁 The Rhythm of Discovery
+-
+
+    "I'm under your spell... I follow you, deep sea baby."
+
+I build like I travel: searching for the pulse in the silence. My code is a map of a lonely planet, and every commit is a drumbeat in the dark. I don't just solve problems; I unravel them, pulling at the threads of the unknown until the world makes sense.
+
+🎧 The Soundtrack of My Stack
+-
+    The Unraveling: Deconstructing complex systems into elegant, simple truths.
+
+    The Flow: Like a river, my logic finds the path of least resistance—relentless and inevitable.
+
+    The Beat: Driven by the percussion of rapid iteration and the rhythm of clean syntax.
+
+🌍 Current Expedition
+-
+
+I am currently navigating the vast territories of [Insert your tech/language here], exploring the uncharted waters of [Insert your project here].
+
+“In the end, we’re all just echoes looking for a beat.”
+
+[Optional: Insert a Spotify badge of your favorite remix here]
+
+
+
